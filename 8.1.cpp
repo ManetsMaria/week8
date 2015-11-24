@@ -143,7 +143,7 @@ int main()
 {
     Str *array[100];
     int summa=0;
-    Str sum;
+    Str sum("");
     int num;
     char time[100];
     cout<<"input number of string"<<endl;
